@@ -14,6 +14,7 @@ The following design patterns have been described:
 * Command
 * Interpreter
 * Iterator
+* Mediator
 
 ### Structural Patterns
 
