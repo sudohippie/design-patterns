@@ -10,6 +10,11 @@ The following design patterns have been described:
 
 ### Behavioral Patterns
 
+* Chain of Responsibility
+* Command
+* Interpreter
+* Iterator
+
 ### Structural Patterns
 
 ### Creational Patterns
