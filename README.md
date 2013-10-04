@@ -15,6 +15,7 @@ The following design patterns have been described:
 * Interpreter
 * Iterator
 * Mediator
+* Memento
 
 ### Structural Patterns
 
